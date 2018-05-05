@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 layout: post
 title: The Satoshi Affair
 date: 2015-3-02
@@ -23,3 +24,27 @@ Ten men raided a house in Gordon, a north shore suburb of Sydney, at 1.30 p.m. o
 
 
 
+=======
+---
+layout: post
+title: 这是一篇博客文章模板
+date: 2015-3-02
+categories: blog
+tags: [标签一,标签二]
+description: 文章金句。
+---
+
+这里是博客正文。
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> parent of 45a5436... add post
